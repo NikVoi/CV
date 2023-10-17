@@ -14,7 +14,7 @@
 
 ***Brief information about myself:*** 
 
-
+I am currently working on several one global scale full online clothing store based on react as front end and nest for server side. And also small web projects to learn more about different subtleties. My goal is to learn everything new and interesting. I can (like to) spend a lot of time doing what I am interested in. I want to gain knowledge and skills that will be enough to work in the company.
 
 ********* 
 
