@@ -27,40 +27,19 @@ There are different initial projects on the branch in the git profile for gettin
 + HTML5 & CSS3 
 + JavaScript
 + MySQL
-+ C++ (WidowsForm)
-+ Python
-+ Figma
-
-********* 
-
-***Code example:***
-
-```
-function openOrSenior(data){
-    let array = [];
-
-    for (let i = 0; i < data.length; i++){
-        for (let j = 0; j < data[i].length; j++){
-          if (data[i][0] >= 55 && data[i][1] > 7){
-              array.push("Senior");
-              break;
-          }else{
-              array.push("Open");
-              break;
-          }
-        }
-    }
-    return array;
-}
-```
-
-********* 
++ OOP
++ React
++ API
 
 ***Work experience:***
 
 **course project(python, tkinter):** https://github.com/NikVoi/Kursovaya
 
 **course project(HTML, CSS, MySQL, JS, php):** I haven't found the project yet, as soon as I find it, I'll add a link and update the CV.
+
+**single-page site with implementation of minimal functionality (gulp, html, scss, js):** [https://nikvoi.github.io/Photo-studio/](https://github.com/NikVoi/Photo-studio)
+
+** 
 
 ********* 
 ***Education:***
