@@ -14,11 +14,7 @@
 
 ***Brief information about myself:*** 
 
-At the moment, I have set myself the goal of learning how to work with the React Framework. And make several projects on it. I studied layout independently, I thought when I entered the university I would have more opportunities to learn different information about front-end development. It turned out that they don't teach anything much.
 
-I can't single out any of the strengths yet, because I don't work so much in this field of programming. Well, although there is experience in solving algorithmic problems, but js has its own interesting chips for solving a particular problem, which in turn require study.
-
-There are different initial projects on the branch in the git profile for getting practice.
 
 ********* 
 
@@ -33,20 +29,24 @@ There are different initial projects on the branch in the git profile for gettin
 
 ***Work experience:***
 
-**course project(python, tkinter):** https://github.com/NikVoi/Kursovaya
+**Course project(python, tkinter):** https://github.com/NikVoi/Kursovaya
 
-**course project(HTML, CSS, MySQL, JS, php):** I haven't found the project yet, as soon as I find it, I'll add a link and update the CV.
+**Course project(HTML, CSS, MySQL, JS, php):** https://github.com/NikVoi/Sneakers-shop
 
-**single-page site with implementation of minimal functionality (gulp, html, scss, js):** [https://nikvoi.github.io/Photo-studio/](https://github.com/NikVoi/Photo-studio)
+**Single-page site with implementation of minimal functionality (gulp, html, scss, js):** [https://nikvoi.github.io/Photo-studio/](https://github.com/NikVoi/Photo-studio)
 
-** 
+**React application for requesting books using API and outputting them to the site (React, js, vite):** https://github.com/NikVoi/Online-library
+
+**Bird-song quiz is a web application (js):** https://github.com/NikVoi/Bird-song
 
 ********* 
 ***Education:***
 
-I am studying at Mogilev Kuleshov State University. Now I am in the 3rd year of study.
+I am studying at Mogilev Kuleshov State University. Now I am in the 4rd year of study.
 
-JavaScript Manual on learnjavascript.ru (in progress)
+I took a course from Rolling Scopes School on front-rnd development. Where I learned how to work with js and got basic skills. Some projects from the course are presented in my repository 
+
+I was a practicing in Modsen company, where I got to know more about react library and component approach to development. Where the development of a mini-project was carried out according to scrum methodology in which there were week-long development sprints. 
 
 ********* 
 ***Languages:***
