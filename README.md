@@ -39,6 +39,8 @@ I am currently working on several one global scale full online clothing store ba
 
 **Bird-song quiz is a web application (js):** https://github.com/NikVoi/Bird-song
 
+**IBank (in procces) web apllication internet baking (ts, zuzshtand, taiwind, firebases, RTK quary, FSD, vite, axios):** https://github.com/NikVoi/IBank_React_TS/tree/devlop
+
 ********* 
 ***Education:***
 
@@ -51,4 +53,4 @@ I was a practicing in Modsen company, where I got to know more about react libra
 ********* 
 ***Languages:***
 
-A2 (I can keep the conversation going on simple topics)
+B1 (But to meet the word parazits & litle russian word, but rarely)
