@@ -39,6 +39,8 @@ I am currently working on several one global scale full online clothing store ba
 
 **Bird-song quiz is a web application (js):** https://github.com/NikVoi/Bird-song
 
+**Mappie custom map with use google map api (ts, axios, redux toolkit, taiwind):** https://github.com/NikVoi/Mappie
+
 **IBank (in procces) web apllication internet baking (ts, zuzshtand, taiwind, firebases, RTK quary, FSD, vite, axios):** https://github.com/NikVoi/IBank_React_TS/tree/devlop
 
 ********* 
