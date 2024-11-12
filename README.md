@@ -4,7 +4,7 @@
 
 **phone:** +375(29)-134-87-42 
 
-**mail:** tivkaipivka@gamil.com 
+**email:** voytik.nikita@gmail.com
 
 **telegram:** @Nik_Voi 
 
