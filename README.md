@@ -12,12 +12,6 @@
 
 ********* 
 
-***Brief information about myself:*** 
-
-I am currently working on several one global scale full online clothing store based on react as front end and nest for server side. And also small web projects to learn more about different subtleties. My goal is to learn everything new and interesting. I can (like to) spend a lot of time doing what I am interested in. I want to gain knowledge and skills that will be enough to work in the company.
-
-********* 
-
 ***Skills and Proficiency:***
 
 + HTML5 & CSS3 
@@ -33,24 +27,19 @@ I am currently working on several one global scale full online clothing store ba
 
 **Course project(HTML, CSS, MySQL, JS, php):** https://github.com/NikVoi/Sneakers-shop
 
+**Bird-song quiz is a web application (js):** https://github.com/NikVoi/Bird-song
+
 **Single-page site with implementation of minimal functionality (gulp, html, scss, js):** [https://nikvoi.github.io/Photo-studio/](https://github.com/NikVoi/Photo-studio)
 
 **React application for requesting books using API and outputting them to the site (React, js, vite):** https://github.com/NikVoi/Online-library
 
-**Bird-song quiz is a web application (js):** https://github.com/NikVoi/Bird-song
-
 **Mappie custom map with use google map api (ts, axios, redux toolkit, taiwind):** https://github.com/NikVoi/Mappie
 
+**Uloding web app loading audio & vidie for trascription (js, axios, jspdf, react-router-dom):** [https://github.com/NikVoi/Mappie](https://github.com/NikVoi/uploading)
+
+**ListCoutries app wheare you can searh counries (js, axios):** [https://github.com/NikVoi/Mappie](https://github.com/NikVoi/ListCountries)
+
 **IBank (in procces) web apllication internet baking (ts, zuzshtand, taiwind, firebases, RTK quary, FSD, vite, axios):** https://github.com/NikVoi/IBank_React_TS/tree/devlop
-
-********* 
-***Education:***
-
-I am studying at Mogilev Kuleshov State University. Now I am in the 4rd year of study.
-
-I took a course from Rolling Scopes School on front-rnd development. Where I learned how to work with js and got basic skills. Some projects from the course are presented in my repository 
-
-I was a practicing in Modsen company, where I got to know more about react library and component approach to development. Where the development of a mini-project was carried out according to scrum methodology in which there were week-long development sprints. 
 
 ********* 
 ***Languages:***
