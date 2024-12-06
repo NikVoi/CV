@@ -35,4 +35,4 @@
 ********* 
 ***Languages:***
 
-B1 (But to meet the word parazits & litle russian word, but rarely)
+B1 - English (But to meet the word parazits)
